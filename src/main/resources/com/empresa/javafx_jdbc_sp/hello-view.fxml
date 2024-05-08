@@ -29,7 +29,7 @@
       <font>
          <Font size="18.0" />
       </font></Label>
-    <Button fx:id="botonGuardar" onAction="#onHelloButtonClick" text="Guardar cliente">
+    <Button fx:id="botonGuardar" onAction="#onHelloButtonClick" text="Guardar cliente" textFill="RED">
       <font>
          <Font size="18.0" />
       </font></Button>
